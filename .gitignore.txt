@@ -1,0 +1,42 @@
+# Arduino specific ignores
+*.elf
+*.hex
+*.bin
+*.lss
+*.eep
+*.map
+*.srec
+*.sym
+*.d
+*.o
+*.su
+*.lst
+*.dep
+*.P
+*.h.gch
+*.ino.elf
+*.ino.hex
+*.ino.bin
+*.ino.lss
+*.ino.eep
+*.ino.map
+*.ino.srec
+*.ino.sym
+*.ino.d
+*.ino.o
+*.ino.su
+*.ino.lst
+*.ino.dep
+*.ino.P
+*.ino.h.gch
+# Arduino build folder
+build/
+.build/
+# IDE specific ignores
+.vscode/
+.DS_Store
+*.sublime-*
+# Backup files
+*~
+# Temp files
+*.tmp
