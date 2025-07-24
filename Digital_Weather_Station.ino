@@ -6,7 +6,7 @@
                The display is toggled ON/OFF with a single push button press.
                Each time it turns ON, it shows a "Welcome to Wired Wanderer" message first.
   This code is part of the "Simple Arduino Projects" playlist on the Wired Wanderer YouTube channel.
-  Find the video tutorial here: [Link to your YouTube video once uploaded]
+  Find the video tutorial here: https://youtu.be/FrJ4FfE9Qdw
 
   Libraries Required:
   1. DHT sensor library by Adafruit (Install via Arduino IDE Library Manager)
